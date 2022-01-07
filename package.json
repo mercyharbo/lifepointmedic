@@ -1,0 +1,15 @@
+{
+  "name": "lifepointmedic",
+  "version": "1.0.0",
+  "description": "A medical hospital and clinic in Nigeria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Code With Mercy",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  }
+}
